@@ -34,15 +34,7 @@
 
       <!-- Option B -->
       <!-- If you want to use the DX CORE. -->
-      <!--
-      <dependency>
-        <groupId>info.magnolia.dx</groupId>
-        <artifactId>magnolia-dx-core-parent</artifactId>
-        <version>${magnoliaBundleVersion}</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-      -->
+
     </dependencies>
   </dependencyManagement>
 
